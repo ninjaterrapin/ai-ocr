@@ -1,2 +1,11 @@
-# ai-ocr
-a project to recognize handwritten records and validate it, then pushing this data into SO&amp;M.
+# AI Logsheet OCR
+
+Convert handwritten maintenance logsheets into structured Excel records.
+
+## Goals
+
+- OCR handwritten values
+- Human-in-the-loop correction
+- Validation rules
+- Excel export
+- Future SO&M integration

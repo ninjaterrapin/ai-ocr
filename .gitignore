@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# OCR project outputs
+output/
+sample_data/*.xlsx
+sample_data/*.csv
