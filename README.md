@@ -9,3 +9,21 @@ Convert handwritten maintenance logsheets into structured Excel records.
 - Validation rules
 - Excel export
 - Future SO&M integration
+
+
+# Equipment Form Extraction
+
+Current Progress:
+
+✅ PDF loading
+✅ PNG loading
+✅ JPG loading
+✅ PaddleOCR extraction
+✅ JSON output
+✅ Excel output
+
+Next Experiments:
+
+- Qwen2.5-VL
+- Document understanding
+- Structured JSON extraction
